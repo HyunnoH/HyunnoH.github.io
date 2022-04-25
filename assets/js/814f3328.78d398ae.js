@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uccab \ube14\ub85c\uadf8 \ud3ec\uc2a4\ud305","permalink":"/blog/first-blog-post"}]}')}}]);
