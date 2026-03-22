@@ -3492,12 +3492,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.11.19":
-  version: 20.17.10
-  resolution: "@types/node@npm:20.17.10"
+"@types/node@npm:^24.12.0":
+  version: 24.12.0
+  resolution: "@types/node@npm:24.12.0"
   dependencies:
-    undici-types: "npm:~6.19.2"
-  checksum: 10c0/458ec725319e57d4692cbb56d81f1a90f9074cef9ec185c59e6f6c557a3d2ded57c5e443b1e82eba923d53dda4db18797fb131ee6e46fdb3d7d2f54d54aaebe3
+    undici-types: "npm:~7.16.0"
+  checksum: 10c0/8b31c0af5b5474f13048a4e77c57f22cd4f8fe6e58c4b6fde9456b0c13f46a5bfaf5744ff88fd089581de9f0d6e99c584e022681de7acb26a58d258c654c4843
   languageName: node
   linkType: hard
 
@@ -4965,7 +4965,7 @@ __metadata:
     "@emotion/react": "npm:^11.14.0"
     "@eslint/js": "npm:^9.39.4"
     "@mdx-js/react": "npm:^3.1.1"
-    "@types/node": "npm:^20.11.19"
+    "@types/node": "npm:^24.12.0"
     "@types/react": "npm:^18.3.28"
     "@types/react-dom": "npm:^18.3.7"
     "@vanilla-extract/css": "npm:^1.20.0"
@@ -15565,17 +15565,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~6.19.2":
-  version: 6.19.8
-  resolution: "undici-types@npm:6.19.8"
-  checksum: 10c0/078afa5990fba110f6824823ace86073b4638f1d5112ee26e790155f481f2a868cc3e0615505b6f4282bdf74a3d8caad715fd809e870c2bb0704e3ea6082f344
-  languageName: node
-  linkType: hard
-
 "undici-types@npm:~6.20.0":
   version: 6.20.0
   resolution: "undici-types@npm:6.20.0"
   checksum: 10c0/68e659a98898d6a836a9a59e6adf14a5d799707f5ea629433e025ac90d239f75e408e2e5ff086afc3cace26f8b26ee52155293564593fbb4a2f666af57fc59bf
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~7.16.0":
+  version: 7.16.0
+  resolution: "undici-types@npm:7.16.0"
+  checksum: 10c0/3033e2f2b5c9f1504bdc5934646cb54e37ecaca0f9249c983f7b1fc2e87c6d18399ebb05dc7fd5419e02b2e915f734d872a65da2e3eeed1813951c427d33cc9a
   languageName: node
   linkType: hard
 
